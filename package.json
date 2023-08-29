@@ -1,0 +1,23 @@
+{
+  "name": "basic-info-site",
+  "version": "1.0.0",
+  "description": "A simple static HTML server",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sandeepdotcode/basic-node-site.git"
+  },
+  "author": "sandeepdotcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepdotcode/basic-node-site/issues"
+  },
+  "homepage": "https://github.com/sandeepdotcode/basic-node-site#readme"
+}

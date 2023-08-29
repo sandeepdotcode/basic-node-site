@@ -2,7 +2,7 @@ import { createServer } from "node:http";
 import { join as joinPath, extname } from "node:path";
 import { access as accessFile } from "node:fs/promises";
 import { createReadStream } from "node:fs";
-import MIME_TYPES from "./lib/contentType.mjs";
+import MIME_TYPES from "./lib/contentType.js";
 
 const hostname = "127.0.0.1";
 const port = process.env.PORT ?? 3000;
