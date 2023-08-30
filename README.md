@@ -1,14 +1,11 @@
 # Basic Information Site
 
-A basic static HTML server built without using a framework. 
+Express version of the basic static HTML server.
 
 ## What I learned
 
-By  doing this project I learned:
-- Building a static html server using Node.js
-- Using core Node modules like `http`, `path` & `fs`
-- using streams to read data from a file
-- using ES6 modules with Node instead of CommonJS
+By  doing this project, with Express, I learned:
+- 
 
 ## How to run
 
