@@ -2,6 +2,8 @@
 
 A basic static HTML server built without using a framework. 
 
+Express version of the app is available in the [express branch](https://github.com/sandeepdotcode/basic-node-site/tree/express)
+
 ## What I learned
 
 By  doing this project I learned:
